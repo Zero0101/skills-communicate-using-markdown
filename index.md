@@ -7,3 +7,5 @@ viewModelScope.launch {
     println(a)
 }
 ```
+- [x] Learn kotlin basics
+- [ ] Learn Github actions
